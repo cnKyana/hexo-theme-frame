@@ -1,0 +1,40 @@
+language: zh
+stylesheets:
+- /css/style.css
+scripts:
+- /js/frame.js
+favicon: /images/unity.png
+date_format: MMM D, YYYY
+
+site_brand_name: Kyana
+logo_image:
+  enable: false
+  image_path: /logo.png
+
+profile:
+  title: 齐雅纳的小屋
+  body: 技术宅拯救世界。
+  image: /images/bh3_pimage.jpg
+  links:
+    Blog: /archives/
+    Github: "https://github.com/KyanaLite/"
+    Art: "/archives/art"
+    Sci: "/archives/sci"
+
+menu:
+  归档: /archives/
+  标签: /tags/
+  友链: /menu/friends.html
+  资源: /menu/resource.html
+  许可: /menu/license.html
+
+footer:
+  copyright_info:
+    enable: true
+    author: Kyana
+  powered_by:
+    enable: true
+  other_info:
+    enable: true
+    content: Kyana：在超电磁许可甲子版下发布
+color_mode: default
